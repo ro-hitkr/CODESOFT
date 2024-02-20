@@ -1,1 +1,35 @@
+//Code of NUMBER GAME Created by Rohit!!
 
+
+//CODE
+
+
+import java.util.*;
+public class project{
+    public static void main(String args[]){
+        Random rand= new Random();
+        Scanner sc = new Scanner(System.in);
+        int randomnumber = rand.nextInt(100)+1;
+       
+        System.out.println("Random number is "+randomnumber);
+        int trycounter=0;
+        while(true){
+        System.out.println("Enter your guess (1-100):");
+        
+        int playerGuess= sc.nextInt();
+        trycounter++;
+        if(playerGuess==randomnumber){
+            System.out.println("Correct! You Win!");
+            System.out.println("It took you "+trycounter+" tries");
+            break;
+        }
+        else if(randomnumber>playerGuess){
+            System.out.println("Nope! The number is higher. Guess again.");
+        }else{
+            System.out.println("Nope! The number is Lower. Guesss again.");
+        }
+
+    }
+    sc.close();
+}
+}
