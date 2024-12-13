@@ -1,0 +1,241 @@
+export const ExcercisesandQuizzes ={
+        name:"Excercises and Quizzes",
+        Excercises:{
+            name:"Excercises",
+            menu:[
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Excercises",
+                    linl: "#"
+                },
+                
+
+            ]
+        },
+        Quizzes:{
+            name:"Quizzes",
+            menu:[
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+                    linl: "#"
+                },
+                {
+                    tittle:"Html Quizzes",
+        },
+
+            ]
+        },
+    Course:{
+        name:"Course",
+        menu:[
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+            {
+                tittle:"Html Course",
+                linl: "#"
+            },
+        ]
+    },
+    Certificates:{
+        name:"Certificates",
+        menu:[
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+            {
+                tittle:"Html Certificates",
+                linl: "#"
+            },
+        ]
+    },
+}
