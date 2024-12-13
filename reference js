@@ -1,0 +1,235 @@
+export const References = {
+    name: "References",
+    HTML:{
+        name:"HTML",
+        menu:[
+           {
+            title:"HTML Tag Reference",
+            link: " # "
+           },  
+           {
+            title:"HTML Browser Support",
+            link: " # "
+           },
+           {
+            title:"HTML Tag Reference",
+            link: " # "
+           },
+           {
+            title:"HTML Tag Reference",
+            link: " # "
+           },
+           {
+            title:"HTML Tag Reference",
+            link: " # "
+           },
+           {
+            title:"HTML Tag Reference",
+            link: " # "
+           },
+           {
+            title:"",
+            link: " # "
+           }, 
+        ]
+    },
+    CSS:{
+        name:"CSS",
+        menu:[
+           {
+            title:"CSS Selector Reference",
+            link: " # "
+           },  
+           {
+            title:"CSS Browser Support",
+            link: " # "
+           },
+           {
+            title:"CSS Selector Reference",
+            link: " # "
+           },
+           {
+            title:"CSS Selector Reference",
+            link: " # "
+           },
+           {
+            title:"CSS Selector Reference",
+            link: " # "
+           },
+           {
+            title:"CSS Selector Reference",
+            link: " # "
+           },
+           {
+            title:"",
+            link: " # "
+           }, 
+        ]
+    },
+    JavaScript:{
+        name:"JavaScript",
+        menu:[
+           {
+            title:"JavaScript Reference",
+            link: " # "
+           },  
+           {
+            title:"JavaScript Browser Support",
+            link: " # "
+           },
+           {
+            title:"JavaScript Reference",
+            link: " # "
+           },
+           {
+            title:"JavaScript Reference",
+            link: " # "
+           },
+           {
+            title:"JavaScript Reference",
+            link: " # "
+           },
+           {
+            title:"JavaScript Reference",
+            link: " # "
+           },
+           {
+            title:"",
+            link: " # "
+           }, 
+        ]
+    },
+    ServerSide:{
+        name:"Server-Side",
+        menu:[
+           {
+            title:"Node.js Reference",
+            link: " # "
+           },  
+           {
+            title:"Node.js Browser Support",
+            link: " # "
+           },
+           {
+            title:"Node.js Reference",
+            link: " # "
+           },
+           {
+            title:"Node.js Reference",
+            link: " # "
+           },
+           {
+            title:"Node.js Reference",
+            link: " # "
+           },
+           {
+            title:"Node.js Reference",
+            link: " # "
+           },
+           {
+            title:"",
+            link: " # "
+           }, 
+        ]
+    },
+    CharacterSets:{
+        name:"Character Sets",
+        menu:[
+           {
+            title:"ASCII Table",
+            link: " # "
+           },  
+           {
+            title:"Character Sets Browser Support",
+            link: " # "
+           },
+           {
+            title:"ASCII Table",
+            link: " # "
+           },
+           {
+            title:"ASCII Table",
+            link: " # "
+           },
+           {
+            title:"ASCII Table",
+            link: " # "
+           },
+           {
+            title:"ASCII Table",
+            link: " # "
+           },
+           {
+            title:"",
+            link: " # "
+           }, 
+        ]
+    },
+    Programming:{
+        name:"Programming",
+        menu:[
+           {
+            title:"Programming Reference",
+            link: " # "
+           },  
+           {
+            title:"Programming Browser Support",
+            link: " # "
+           },
+           {
+            title:"Programming Reference",
+            link: " # "
+           },
+           {
+            title:"Programming Reference",
+            link: " # "
+           },
+           {
+            title:"Programming Reference",
+            link: " # "
+           },
+           {
+            title:"Programming Reference",
+            link: " # "
+           },
+           {
+            title:"",
+            link: " # "
+           }, 
+        ]
+    },
+    XML:{
+        name:"XML",
+        menu:[
+           {
+            title:"XML Reference",
+            link: " # "
+           },  
+           {
+            title:"XML Browser Support",
+            link: " # "
+           },
+           {
+            title:"XML Reference",
+            link: " # "
+           },
+           {
+            title:"XML Reference",
+            link: " # "
+           },
+           {
+            title:"XML Reference",
+            link: " # "
+           },
+           {
+            title:"XML Reference",
+            link: " # "
+           },
+           {
+            title:"",
+            link: " # "
+           }, 
+        ]
+    },
+
+}
